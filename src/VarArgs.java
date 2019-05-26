@@ -16,4 +16,7 @@ public class VarArgs {
         printArray(new Object[]{new A(),new A(),new A()});
     }
 }
+
+
+
 class A{}
